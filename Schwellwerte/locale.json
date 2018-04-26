@@ -3,6 +3,8 @@
         "de": {
             "lower": "Wert unten (0)",
             "upper": "Wert oben (1)"
+            "Off": "Aus",
+            "On": "An"
         }
     }
 }
